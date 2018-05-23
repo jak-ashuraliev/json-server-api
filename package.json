@@ -1,0 +1,22 @@
+{
+  "name": "json-server-api",
+  "version": "1.0.0",
+  "description": "Fake REST API with json-server",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jak-ashuraliev/json-server-api.git"
+  },
+  "author": "Jak Ashuraliev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jak-ashuraliev/json-server-api/issues"
+  },
+  "homepage": "https://github.com/jak-ashuraliev/json-server-api#readme",
+  "dependencies": {
+    "json-server": "^0.12.2"
+  }
+}

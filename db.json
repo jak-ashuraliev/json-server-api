@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstName": "John",
+      "lastName": "Smith",
+      "email": "johnsmith@test.com",
+      "age": 31,
+      "companyID": "1"
+    },
+    {
+      "id": "2",
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "johndoe@test.com",
+      "age": 32,
+      "companyID": "2"
+    },
+    {
+      "id": "3",
+      "firstName": "Alex",
+      "lastName": "Bacon",
+      "email": "alexbacon@test.com",
+      "age": 32,
+      "companyID": "3"
+    },
+    {
+      "id": "12",
+      "firstName": "Michael",
+      "lastName": "Jordan",
+      "email": "jordan@test.com",
+      "age": 45,
+      "companyID": "4"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Apple",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters."
+    },
+    {
+      "id": "2",
+      "name": "Google",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters."
+    },
+    {
+      "id": "3",
+      "name": "Microsoft",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters."
+    }
+  ]
+}
